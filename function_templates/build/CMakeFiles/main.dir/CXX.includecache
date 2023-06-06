@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Klasy.h
+vector
+-
+cstring
+-
+functional
+-
+
+../include/func.h
+functional
+-
+vector
+-
+utility
+-
+string.h
+-
+iostream
+-
+memory
+-
+Klasy.h
+../include/Klasy.h
+
+/home/alicja/labsem4/PP_prepare/10.05/main.cpp
+iostream
+-
+func.h
+/home/alicja/labsem4/PP_prepare/10.05/func.h
+Klasy.h
+/home/alicja/labsem4/PP_prepare/10.05/Klasy.h
+

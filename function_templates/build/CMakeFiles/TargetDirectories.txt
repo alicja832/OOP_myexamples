@@ -1,0 +1,5 @@
+/home/alicja/labsem4/PP_prepare/10.05/build/CMakeFiles/rebuild_cache.dir
+/home/alicja/labsem4/PP_prepare/10.05/build/CMakeFiles/edit_cache.dir
+/home/alicja/labsem4/PP_prepare/10.05/build/CMakeFiles/check.dir
+/home/alicja/labsem4/PP_prepare/10.05/build/CMakeFiles/run.dir
+/home/alicja/labsem4/PP_prepare/10.05/build/CMakeFiles/main.dir
